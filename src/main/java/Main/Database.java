@@ -160,7 +160,7 @@ public class Database extends DictionaryMethod {
      * <p>Nothing happens if `target` is not in the database for deletion.
      *
      * @param target the deleted word
-     * @return true if successfully delete, false otherwise
+     * @return true if successfully delete, false otherwiseiiiiii
      */
     @Override
     public boolean deleteWord(final String target) {
